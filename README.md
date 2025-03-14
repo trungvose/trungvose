@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-My name's Trung. I am a seasoned front-end engineer with 9 years of passion in creating experience-driven products. I am proficient in Angular, React and TypeScript development.
+Trung Vo is a seasoned web developer, tech community builder, and recognised Google Developer Expert in Angular. As the founder of Angular Singapore (https://angularsg.com/), he leads initiatives to build and nurture the software developer community in Singapore. Trung frequently speaks at international tech conferences, sharing insights on modern development practices to make the web fast and delightful for end users.
 
- I'm helping the Angular community by creating open sources and writing about interesting and useful topics. I found that there weren't many resources on building a proper real-world scale application, and that's my focus for sharing. My most notable open-source projects are:
+At Ascenda, he innovates towards loyalty programs for financial services worldwide, making rewards more accessible and driving a deeper understanding of customer behaviour.
 
-- [spotify.trungk18.com](https://spotify.trungk18.com/)
-- [jira.trungk18.com](https://jira.trungk18.com)
-- [tetris.trungk18.com](https://tetris.trungk18.com)
-- [github.com/angular-vietnam/100-days-of-angular](https://github.com/angular-vietnam/100-days-of-angular)
+Some of his most notable open-source projects:
 
-Recently, I organized [Angular Singapore](https://twitter.com/angularsg) to advocate and grow the Angular developer community in Singapore. 
-If you have any questions/problems with @angular or need any other advice? Feel free to ✅ [book a FREE one-on-one meeting](https://trungk18.com/chat/)  with me. I'll try my best to help you. Thanks for visiting my Github :)
+- Angular Spotify ~ 2.5k stars - [trungvose/angular-spotify](https://github.com/trungvose/angular-spotify)
+- Angular Jira Clone ~ 2.2k stars - [trungvose/jira-clone-angular](https://github.com/trungvose/jira-clone-angular)
+- Angular Tetris ~ 500 stars - [trungvose/angular-tetris](https://github.com/trungvose/angular-tetris)
+
+He has been a guest speaker at several international conferences and events. You can view all his talks at trungvose.com/talks.
+
+Trung Vo is a recognised leader in the developer community in Singapore, known for his role as a speaker, mentor, and community organiser, helping developers grow.
